@@ -15,6 +15,6 @@
 
 <p>~HTML</p>
 <p>~JavaScript</p>
-<p>CSS</p>
+<p>~CSS</p>
 
 <p>Esta es la version final del juego.</p>
